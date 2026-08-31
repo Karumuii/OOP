@@ -16,7 +16,7 @@ public class f5 {
         }
     }
 
-    void creatTree() {
+    void createBinaryTree() {
         Binarytree one = new Binarytree(1);
         Binarytree two = new Binarytree(2);
         Binarytree three = new Binarytree(3);
@@ -37,11 +37,13 @@ public class f5 {
         }
         
         display(node.left); //Recursive, tawgon ang method sa sulod saiyang method
-        System.out.println(node.data);
+        System.out.println("> " + node.data);
         System.out.println(node.right);
     }
 
     public static void main(String[] args) {
-
+        f5 tre = new f5();
+        tre.createBinaryTree();
+        tre.display(tre.root);
     }
 }
