@@ -1,4 +1,4 @@
-package firstmeet;
+package firstmeet1;
 class Business {
     String name, prod, cusType,prodtype;
     int cusID, price;

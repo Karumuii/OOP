@@ -1,4 +1,4 @@
-package secondMeet;
+package secondMeet2;
 
 public class ProceduralApproach {
     public static void main(String[] args) {

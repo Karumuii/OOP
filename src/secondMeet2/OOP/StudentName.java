@@ -1,4 +1,4 @@
-package secondMeet.OOP;
+package secondMeet2.OOP;
 
 public class StudentName {
     public static void main(String[] args) {

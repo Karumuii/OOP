@@ -1,4 +1,4 @@
-package thirdmeet;
+package thirdmeet3;
 // Page: 18 - 24 (Programming errors) in the Coursepack
 // 08/20/26
 public class third {

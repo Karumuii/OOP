@@ -1,4 +1,4 @@
-package fourthmeet.sample2;
+package fourthmeet4.sample2;
 
 public class N {
    String names;

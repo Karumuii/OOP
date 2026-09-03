@@ -1,4 +1,4 @@
-package secondMeet;
+package secondMeet2;
 // Study: what is Static
 // COursePack Page 14 (Start)
 public class ProceduralApproach2 {
