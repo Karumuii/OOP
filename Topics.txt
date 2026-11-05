@@ -1,0 +1,12 @@
+Midterm:
+- Methoding
+- Procedural Approach
+- Loops
+- Binary Tree
+- Encapsulation
+- Abstraction
+
+
+Finals:
+- Inheritance
+- Polymorphism
